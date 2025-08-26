@@ -30,3 +30,6 @@ downloads/
 
 # VS Code settings
 .vscode/
+
+# App icon
+app.ico

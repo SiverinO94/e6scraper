@@ -11,7 +11,7 @@ def load_config():
         config.read(CONFIG_FILE)
         query = config["settings"].get("query", "")
         download_output = config["settings"].get("download_output", "downloads")
-        download_limit = int(config["settings"].get("download_limit", 3))
+        download_limit = int(config["settings"].get("download_limit", 100))
     else:
         query = ""
         download_output = "downloads"
