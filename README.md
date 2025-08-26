@@ -18,14 +18,10 @@ A simple Python application with a QtPy GUI that downloads posts from [e621](htt
 
 ### Screenshots
 
-**Main GUI**  
-<img src="assets/screenshot_main.png" alt="Main GUI" width="600"/>
+| Main GUI | Log Window & Progress | Folder Output |
+|----------|--------------------|---------------|
+| <img src="assets/screenshot_main.png" alt="Main GUI" width="300"/> | <img src="assets/screenshot_log.png" alt="Log & Progress" width="300"/> | <img src="assets/screenshot_output.png" alt="Output" width="300"/> |
 
-**Log Window and Progress**  
-<img src="assets/screenshot_log.png" alt="Log & Progress" width="600"/>
-
-**Folder Output**  
-<img src="assets/screenshot_output.png" alt="Output" width="600"/>
 
 ### Using Python (Optional)
 If you want to run the Python version:
